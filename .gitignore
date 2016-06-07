@@ -32,4 +32,7 @@ Build/
 xcuserdata/
 
 prebuilt-with-ssl/include
-*.a
+
+libs/
+obj/
+gen/
